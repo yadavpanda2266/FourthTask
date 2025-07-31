@@ -1,0 +1,2 @@
+Hello python ! \n Learning file handling in python
+This is some additional data.
